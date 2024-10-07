@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "strings_merge/merge-strings-alternately.md",
+                "file": "grafos/Grafos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "strings_merge/merge-strings-alternately.md",
+                "file": "grafos/Grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "strings_merge/merge-strings-alternately.md",
+                "file": "grafos/Grafos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "strings_merge/merge-strings-alternately.md"
+                "file": "grafos/Grafos.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "c31275c20805707b",
   "lastOpenFiles": [
-    "arrays/find-closest-number-to-zero.md",
     "strings_merge/merge-strings-alternately.md",
+    "grafos/Grafos.md",
+    "grafos",
+    "arrays/find-closest-number-to-zero.md",
     "strings_merge",
     "README.md",
     "arrays/closes.exe"
