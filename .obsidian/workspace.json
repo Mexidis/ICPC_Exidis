@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "strings_merge/merge-strings-alternately.md",
+                "file": "arrays/find-closest-number-to-zero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98b8b7735a66cdc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Puntos importantes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "strings_merge/merge-strings-alternately.md",
+                "file": "Puntos importantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "strings_merge/merge-strings-alternately.md",
+                "file": "Puntos importantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "strings_merge/merge-strings-alternately.md"
+                "file": "Puntos importantes.md"
               }
             }
           }
@@ -146,9 +159,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c31275c20805707b",
+  "active": "98b8b7735a66cdc3",
   "lastOpenFiles": [
+    "Puntos importantes.pdf",
+    "Pasted image 20241004232310.png",
+    "grafos_y_mas.pdf",
+    "Pasted image 20241004224956.png",
+    "Pasted image 20241004222847.png",
+    "Pasted image 20241004222840.png",
+    "Pasted image 20241004222718.png",
+    "Pasted image 20241004222653.png",
+    "Pasted image 20241004215913.png",
+    "Pasted image 20241004215838.png",
+    "Pasted image 20241004215247.png",
     "arrays/find-closest-number-to-zero.md",
+    "Puntos importantes.md",
     "strings_merge/merge-strings-alternately.md",
     "strings_merge",
     "README.md",
