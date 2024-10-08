@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "arrays/find-closest-number-to-zero.md",
                 "mode": "source",
                 "source": false
@@ -26,6 +27,9 @@
               "type": "markdown",
               "state": {
                 "file": "Puntos importantes.md",
+=======
+                "file": "grafos/Grafos.md",
+>>>>>>> 0c2d5bdecc548ee38ebfcbb178051b2696ec47c6
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +102,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Puntos importantes.md",
+=======
+                "file": "grafos/Grafos.md",
+>>>>>>> 0c2d5bdecc548ee38ebfcbb178051b2696ec47c6
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Puntos importantes.md",
+=======
+                "file": "grafos/Grafos.md",
+>>>>>>> 0c2d5bdecc548ee38ebfcbb178051b2696ec47c6
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Puntos importantes.md"
+=======
+                "file": "grafos/Grafos.md"
+>>>>>>> 0c2d5bdecc548ee38ebfcbb178051b2696ec47c6
               }
             }
           }
@@ -161,6 +177,7 @@
   },
   "active": "98b8b7735a66cdc3",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Puntos importantes.pdf",
     "Pasted image 20241004232310.png",
     "grafos_y_mas.pdf",
@@ -174,7 +191,12 @@
     "Pasted image 20241004215247.png",
     "arrays/find-closest-number-to-zero.md",
     "Puntos importantes.md",
+=======
+>>>>>>> 0c2d5bdecc548ee38ebfcbb178051b2696ec47c6
     "strings_merge/merge-strings-alternately.md",
+    "grafos/Grafos.md",
+    "grafos",
+    "arrays/find-closest-number-to-zero.md",
     "strings_merge",
     "README.md",
     "arrays/closes.exe"
