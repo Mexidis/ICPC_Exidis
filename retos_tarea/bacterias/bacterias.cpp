@@ -12,7 +12,7 @@ int main() {
         {
             cin >> mat[i][j];
         }
-    }
+    } 
 
     for (int i = m - 1; i >= 0; i--) 
     {
@@ -21,11 +21,14 @@ int main() {
             if (i == m - 1 && j == n - 1) 
             {
                 continue; 
-            } else if (i == m - 1) {
+            } else if (i == m - 1) 
+            {
                 mat[i][j] += mat[i][j + 1]; 
-            } else if (j == n - 1) {
+            } else if (j == n - 1) 
+            {
                 mat[i][j] += mat[i + 1][j]; 
-            } else {
+            } else 
+            {
                 mat[i][j] += min(mat[i + 1][j], mat[i][j + 1]); 
             }
         }
