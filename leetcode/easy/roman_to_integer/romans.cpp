@@ -13,24 +13,14 @@ int romanToInt(string s) {
   map['D'] = 500;
   map['M'] = 1000;
 
-  int n = s.length();
   int sum = 0;
-  int visto = 0;
-  int temp = 0;
-  for (int i = n-1; i >= 0; i--) {
-    //MCMXCIV
-    char numActual = s[i];
-    visto = map.find(numActual)->second;//5,1
-    temp = max(visto, sum);//5,5
-    if (visto >= temp) {
-      sum += visto;//5
-      cout << sum << " sumo " << endl;
-    } else if (visto < temp) {
-      sum -= visto;
-      cout << sum << " resto " << endl;
+  for(int i = 0; i < s.length() ; i++) {
+    if(map[s[i]] < map[s[i + 1]]) {
+      sum -= map[s[i]];
+    } else {
+      sum += map[s[i]];
     }
   }
-
   return sum;
 }
 
