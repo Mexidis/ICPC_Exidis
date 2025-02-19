@@ -11,7 +11,7 @@ int solve(){
         scanf("%d", &a[i]);
     }
     int maxFibo = 0;
-    for (int i = -500; i < 250; ++i) {
+    for (int i = -200; i < 200; ++i) {
         maxFibo = max(maxFibo, (a[0] + a[1] == i) + (a[2] - a[1] == i) + (a[3] - a[2] == i));
     }
     return maxFibo;
